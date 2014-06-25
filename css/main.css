@@ -75,12 +75,12 @@ body {
    =================== */
 
 .header-container {
-    border-bottom: 20px solid #FFFF00;
+    border-bottom: 20px solid #FF0000;
 }
 
 .footer-container,
 .main aside {
-    border-top: 20px solid #FFFF00;
+    border-top: 20px solid #FF0000;
 }
 
 .header-container,
