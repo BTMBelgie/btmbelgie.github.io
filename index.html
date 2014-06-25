@@ -45,14 +45,12 @@ title: Bitcoin ATM België
 		<section>
 			<p>We willen dit bereiken door samen als bitcoin gemeenschap de nodige middelen te verzamelen dit te bereiken. En we hopen zo een mooi resultaat te oogsten.</p>
 		</section>
-		<footer>
-		</article>
-                <article>
-                <header><h1>Blogposts</h1></header><ul class="posts">
+		
+                <section><h1>Blogposts</h1></header><ul class="posts">
 		{% for post in site.posts %}
 		<li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
 		{% endfor %}
-		</ul></article>
+		</ul></section></article>
 
                 <aside>
                     <h3>Bitcoin?</h3>
