@@ -4,11 +4,11 @@ layout: nil
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
  
- <title>Tom Preston-Werner</title>
+ <title>Bitcoin ATM België</title>
  <link href="http://btmbelgie.github.io//atom.xml" rel="self"/>
  <link href="http://btmbelgie.github.io//"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
- <id>http://tom.preston-werner.com/</id>
+ <id>hhttp://btmbelgie.github.io/</id>
  <author>
    <name>Bitcoin ATM België</name>
    <email></email>
