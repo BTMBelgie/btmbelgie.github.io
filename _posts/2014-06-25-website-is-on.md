@@ -12,4 +12,4 @@ Ons project, het plaatsen van een Bitcoin ATM in België, voor iedereen toeganke
 
 Ik hoop nog mensen mee te krijgen. Je kunnen me steeds contacteren via Bitcointalk.
 
-- Groeten Arne "argov"
+Groeten Arne "argov"
