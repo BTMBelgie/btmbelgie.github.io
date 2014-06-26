@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The website is on!
+title: Eerste leden
 ---
 
 {{ page.title }}
